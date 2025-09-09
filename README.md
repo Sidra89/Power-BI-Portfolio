@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard
+# 📊 Chocolate Sales Performance Dashboard
 
 This portfolio dashboard has been developed by **Sidra Saleem** using dummy sales data.  
 It provides an interactive view of global sales performance, enabling users to analyze sales by country,  
